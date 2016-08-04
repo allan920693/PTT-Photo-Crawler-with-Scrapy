@@ -1,8 +1,8 @@
 # PTT-Photo-Crawler-with-Scrapy
 
-Environement: Python 2.7 + Anaconda (Spyder) +Scrapy
+Environment: Python 2.7 + Anaconda (Spyder) +Scrapy
 
-1. Creat your working file:
+1. Create your working file:
 
     Please use Anaconda prompt shell and type:
 
