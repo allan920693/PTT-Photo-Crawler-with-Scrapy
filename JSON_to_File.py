@@ -13,7 +13,7 @@ pic_name = 1
 # (right click on the picture, look under properties and copy the address)
 	
 
-with open("sex.json") as json_file:
+with open("gossip.json") as json_file:
     json_data = json.load(json_file)
    
     
