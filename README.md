@@ -4,6 +4,11 @@ This project demonstrates how to crawl PTT web page and download photos accordin
 
 
 
+Feel free to give me any feedback. You can mailto: allan920693@yahoo.com.tw
+
+                                            Yu-Jia Chen   Taiwan, 08/24/2016, 5:07 PM
+
+
 Environment: Python 2.7 + Anaconda (Spyder) +Scrapy
 
 1. Create your working file:
