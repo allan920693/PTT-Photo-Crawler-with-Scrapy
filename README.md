@@ -1,5 +1,9 @@
 # PTT-Photo-Crawler-with-Scrapy
 
+This project demonstrates how to crawl PTT web page and download photos according to post contents/indicators. 
+
+
+
 Environment: Python 2.7 + Anaconda (Spyder) +Scrapy
 
 1. Create your working file:
